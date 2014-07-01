@@ -1,0 +1,98 @@
+html{
+	height: 100%;
+}
+
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+
+
+.Products{
+	background-color: orange;
+	padding: 3px;
+	overflow: hidden;
+	margin-top: 10px;
+
+
+}
+
+.Products img{
+	width: 50px;
+	height: 50px;
+	display: block;
+	float: left;
+
+}
+
+.Products Contents{
+	margin-left: 50px;
+	padding-left: 10px;
+
+}
+
+main{
+	background-color: orange;
+	padding: 10px;
+	overflow: hidden;
+	margin-top: 10px;
+	width: 960px;
+	min-height: 300px;
+	margin-left: 200px;
+
+
+}
+
+main aside{
+	width: 200px;
+	height: 50px;
+	float: left;
+	background-color: red;
+	min-height: 500px;
+
+}
+
+.main-content{
+	margin-left: 215px;
+	padding: 10px;
+	background-color: blue;
+	overflow: hidden;
+}
+
+.Products  h3{
+	margin-left: 50px;
+	padding: 5px;
+	font: bold;
+	padding-left: 10px;
+}
+
+
+/*	
+}.items{
+	background-color: orange;
+	padding: 3px;
+	overflow: hidden;
+	margin-top: 10px;
+
+
+}
+
+.items img{
+	width: 50px;
+	height: 50px;
+	display: block;
+	float: left;
+
+}
+
+.items Contents{
+	margin-left: 50px;
+	padding-left: 10px;
+
+}
+
+
+*/

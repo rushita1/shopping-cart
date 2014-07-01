@@ -1,0 +1,603 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"b",
+				"border-color"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"city",
+				"cityName"
+			],
+			[
+				"M",
+				"MSA_City"
+			],
+			[
+				"pr",
+				"products"
+			],
+			[
+				"li",
+				"listings"
+			],
+			[
+				"listi",
+				"listing"
+			],
+			[
+				"lis",
+				"listings"
+			],
+			[
+				"_",
+				"_SERVER"
+			],
+			[
+				"fo",
+				"foreach	foreach …"
+			],
+			[
+				"Med",
+				"MedianPrice"
+			],
+			[
+				"s",
+				"sorted"
+			],
+			[
+				"minli",
+				"minListingCityName"
+			],
+			[
+				"exe",
+				"Exercise"
+			],
+			[
+				"list",
+				"listings"
+			],
+			[
+				"error",
+				"error_reporting"
+			],
+			[
+				"do",
+				"dogs"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"m",
+				"myFriends"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"su",
+				"subFromCart"
+			],
+			[
+				"cl",
+				"className"
+			],
+			[
+				"c",
+				"className"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ba",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "demo.html",
+			"settings":
+			{
+				"buffer_size": 740,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/rushita/freehtml5water/index.html",
+			"settings":
+			{
+				"buffer_size": 5668,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html> \n<html>\n\n<head>\n  <title></title>\n  <link href=\"http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css\" rel=\"stylesheet\">\n\n\n  <link rel=\"stylesheet\" href=\"one.css\">\n</head>\n\n<body>\n  <div id=\"main\">		\n\n    <header>\n	  <div id=\"strapline\">\n\n    \n	    <div id=\"welcome_slogan\">\n	      <h3> <span>  </span></h3>\n	    </div><!--close welcome_slogan-->\n      </div><!--close strapline-->	\n\n\n\n\n      </header>  \n\n\n    <div id=\"site_content\">   \n    \n    <div class=\"sidebar_container\"> \n\n\n\n\n         \n            \n </div><!--close sidebar_item--> \n       \n</div>\n\n\n        <footer>\n    <a href=\"index.html\">Home</a> | <a href=\"ourwork.html\">Our Work</a> | <a href=\"testimonials.html\">Testimonials</a> | <a href=\"projects.html\">Projects</a> | <a href=\"contact.html\">Contact</a><br/><br/>\n    <a href=\"http://fotogrph.com\">Images</a> \n    </footer>   \n\n</body>\n</html>",
+			"file": "demo-one.html",
+			"file_size": 1028,
+			"file_write_time": 130448369779923836,
+			"settings":
+			{
+				"buffer_size": 892,
+				"line_ending": "Unix",
+				"name": "demo-one.html"
+			}
+		},
+		{
+			"file": "one.css",
+			"settings":
+			{
+				"buffer_size": 2049,
+				"line_ending": "Unix",
+				"name": "one.css"
+			}
+		},
+		{
+			"file": "/home/rushita/freehtml5water/css/style.css",
+			"settings":
+			{
+				"buffer_size": 8007,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/home/rushita/Downloads/simpleVisuals-master/style.css",
+			"settings":
+			{
+				"buffer_size": 880,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/rushita/Downloads/simpleVisuals-master/index.html",
+			"settings":
+			{
+				"buffer_size": 2131,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/rushita/Downloads/simpleVisuals-master/index.html",
+		"/home/rushita/final cart project/style.css",
+		"/home/rushita/final cart project/brad.js",
+		"/home/rushita/final cart project/bradcart.html",
+		"/home/rushita/freehtml5water/js/jquery.min.js",
+		"/home/rushita/freehtml5water/ourwork.html",
+		"/var/www/rushita/htdocs/phpforms1/README.md",
+		"/var/www/rushita/htdocs/realestate_loops/realestate_loops.php",
+		"/var/www/rushita/htdocs/realestate_loops/homework.php",
+		"/home/rushita/cart project.js/main.js",
+		"/home/rushita/cart project.js/demo.html",
+		"/home/rushita/cart project.js/bradcart.html",
+		"/home/rushita/cart project.js/index.html",
+		"/home/rushita/cart project.js/brad.js",
+		"/home/rushita/cart project.js/style.css",
+		"/home/rushita/cart project.js/another-file.js",
+		"/home/rushita/cart project.js/another-file.sublime-project",
+		"/var/www/rushita/htdocs/phpforms1/index.php",
+		"/var/www/rushita/htdocs/index.html",
+		"/var/www/rushita/htdocs/test.php",
+		"/home/rushita/Downloads/simpleVisuals-master/style.css",
+		"/home/rushita/Downloads/simpleVisuals-master/cool-stuff.js",
+		"/home/rushita/cart project.js/cart.js",
+		"/home/rushita/cart project.js/cart.html",
+		"/home/rushita/cart/cart.html"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"}\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "demo.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 740,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								651,
+								651
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/rushita/freehtml5water/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5668,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5426,
+								5426
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1872.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "demo-one.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 892,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								276,
+								276
+							]
+						],
+						"settings":
+						{
+							"auto_name": "demo-one.html",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "one.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2049,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								166,
+								166
+							]
+						],
+						"settings":
+						{
+							"auto_name": "one.css",
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/rushita/freehtml5water/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8007,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4934,
+								4934
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4320.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/rushita/Downloads/simpleVisuals-master/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 880,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/rushita/Downloads/simpleVisuals-master/index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2131,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								690,
+								690
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "cart final.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/var/www/rushita/htdocs/forms/forms.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
